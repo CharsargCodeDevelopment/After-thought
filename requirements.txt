@@ -1,0 +1,4 @@
+OpenEXR
+pillow
+PIL
+matplotlib
